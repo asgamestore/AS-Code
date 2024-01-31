@@ -1,4 +1,4 @@
 <Label
-    Text="Hello, World!" 
+    Text="Welcome To AS Code!" 
     Style="{StaticResource Headline}"
     SemanticProperties.HeadingLevel="Level1"  />
